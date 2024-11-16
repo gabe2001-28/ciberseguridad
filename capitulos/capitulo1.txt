@@ -1,1 +1,1 @@
-En este capitulo veremos cómo usar Git
+En este capitulo veremos como usar Git
